@@ -1,4 +1,4 @@
-# Module 3 Challenge -- PyPoll for Jeff Schmidt
+# Module 3 Challenge
 
 # Add our dependencies.
 import csv
